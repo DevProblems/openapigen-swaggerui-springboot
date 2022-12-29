@@ -1,0 +1,1 @@
+# openapigen-swaggerui-springboot
