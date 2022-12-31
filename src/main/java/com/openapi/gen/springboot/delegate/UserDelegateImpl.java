@@ -8,6 +8,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
+/*
+ *  @author: DevProblems(Sarang Kumar A Tak)
+ *  Youtube channel: https://youtube.com/@devproblems
+ */
 @Service
 public class UserDelegateImpl implements UserApiDelegate {
 

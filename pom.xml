@@ -13,6 +13,22 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>openapi-gen-springboot</name>
 	<description>Demo project for Spring Boot</description>
+	<developers>
+		<developer>
+			<id>DevProblems</id>
+			<name>Sarang Kumar A Tak</name>
+			<email>sarangkumardevproblems@gmail.com</email>
+			<url>https://youtube.com/@devproblems</url>
+			<roles>
+				<role>Youtuber</role>
+				<role>Technology Consultant</role>
+			</roles>
+			<timezone>India</timezone>
+			<properties>
+				<githubUrl>https://github.com/DevProblems</githubUrl>
+			</properties>
+		</developer>
+	</developers>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

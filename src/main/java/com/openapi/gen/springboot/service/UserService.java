@@ -9,6 +9,10 @@ import java.util.Optional;
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
+/*
+ *  @author: DevProblems(Sarang Kumar A Tak)
+ *  Youtube channel: https://youtube.com/@devproblems
+ */
 @Service
 public class UserService {
 
